@@ -41,7 +41,7 @@ client.on('message', message => {
 	if (message.author.bot) return;
 
 	if(message.content.includes('minjae' && 'gay')) {
-		message.channel.send('minjae is very gay. Click here to help -> http://donate.autismspeaks.org/');
+		message.channel.send('minjae iscool')
 	}
 
 	if(message.content.includes('thank' && 'cletus')) {
